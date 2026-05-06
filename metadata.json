@@ -1,0 +1,6 @@
+{
+  "name": "ScribbleAI",
+  "description": "Handwriting recognition app with a scikit-learn backend and React frontend. Features a drawing canvas and real-time predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
